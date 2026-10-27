@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "<h1>Hello from Flask!</h1><p>My first PaaS application.</p>"
+    return return "<h1>Cloud Computing Lab - PaaS - Version 2</h1>"
